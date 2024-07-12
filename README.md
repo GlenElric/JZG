@@ -1,0 +1,2 @@
+# JZG
+Python Mini Project
